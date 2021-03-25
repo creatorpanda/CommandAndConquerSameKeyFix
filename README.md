@@ -11,13 +11,13 @@ fixes for:
 *Tested on these games installed by Origin. Steam or CDs may store the original keys elsewhere. Contact me on Twitter if you keep encountering the error.*
 
 
-So what these thingies do is, they change the game's key on your computer's registry. That way you stop sharing the same key with a friend you want to play with, and the error goes away! The original key is replaced, but can be reobtained by reinstalling the game. It's completely safe!
+So what these thingies do is, they change the game's key on your computer's registry. That way you stop sharing the same key with a friend you want to play with, and the error goes away! The original key is replaced, but can be re-obtained by reinstalling the game. It's completely safe!
 
-I added 10 keys so up to 10 different people can use them in case there's a big game.
+I added 10 keys so up to 10 different people (machines) can use them in case there's a big game.
 
 Steps:
 - Close the game before running the file.
-- Run only one file key by double-left clicking on it and do NOT use the same file with a friend.  You'll get the same error again. 
+- Run only one key file by double-left clicking on it and do NOT use the same file with a friend (different PC).  You'll get the same error again. 
 - Agree to everything they want to change and you're ready to go.
 
 There are no infected files. Use them freely.
