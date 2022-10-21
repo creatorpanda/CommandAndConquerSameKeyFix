@@ -7,7 +7,7 @@ fixes for:
 - C&C **Tiberium Wars**
 - C&C **Kane's Wrath**
 
-## UPDATE!! PLEASE READ!!
+## 21/10/2022 UPDATE!! PLEASE READ!!
 **After noticing that a lot of people needed these scripts, I created a safe, simple and tiny program that does better than the bland scripts!**
 
 *The difference?*
@@ -16,7 +16,7 @@ fixes for:
 - lets you know if the job was done correctly with colored buttons and messages,
 - the whole process is three steps!
 
-### Github won't let me upload a 40MB program, so you need to [download *GeneralPandaGenerator* from here](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0) and unzip it on your machine!
+### Github won't let me upload a 40MB program here, so you need to [download *GeneralPandaGenerator* from here](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0) and unzip it on your machine!
 
 ### Before running the program 
 **make sure that you close the game you want to fix!!!**
@@ -47,7 +47,7 @@ youu will get a red button\
 and a message box, reading this:\
 ![GPGWarningMessage](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGWarningMessage.png)
 
-### Please do not hesitate to [contact me here](https://twitter.com/creatorpanda)
+### Please do not hesitate to [contact me here](https://twitter.com/creatorpanda)!
 
 Hopefully  *GeneralPandaGenerator* will suit you better. You can share it easily with friends via flash drives, without fear of using the same key as could happen with the scripts below!
 
