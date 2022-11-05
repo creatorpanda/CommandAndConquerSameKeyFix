@@ -16,7 +16,9 @@ fixes for:
 - lets you know if the job was done correctly with colored buttons and messages,
 - the whole process is three steps!
 
+![NODLoggoForGeneralPandaGenerator.png](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/NODLoggoForGeneralPandaGenerator.png)
 ### Github won't let me upload a 40MB program here, so you need to [download *GeneralPandaGenerator* from here](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0) and unzip it on your machine!
+
 
 ### Before running the program 
 **make sure that you close the game you want to fix!!!**
