@@ -1,14 +1,24 @@
 # CommandAndConquerKeyFix
-Command & Conquer "Serial Key Already in Use" Fix
----
 fixes for:
 - C&C **Generals**
 - C&C **Zero Hour**
 - C&C **Tiberium Wars**
 - C&C **Kane's Wrath**
 
-## 21/10/2022 UPDATE!! PLEASE READ!!
-**After noticing that a lot of people needed these scripts, I created a safe, simple and tiny program that does better than the bland scripts!**
+General Panda Generator
+---
+![GeneralPandaGeneratorVT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGeneratorVT.png)\
+Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/04c40f2a4ac3ea6814654dbb3073a57239145a444c39f9cfd7a3f6a385a13a45?nocache=1) for additional information.
+
+### This is the only official place to [download *GeneralPandaGenerator*](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0)
+
+---
+### 30/03/2024 UPDATE!! PLEASE READ!!
+**CnC now on Steam! I was told how GeneralPandaGenerator does not work for Steam and I will be working on it!**
+
+---
+#### 21/10/2022 UPDATE!! PLEASE READ!!
+**After noticing that a lot of people needed these scripts, I created a safe, simple, and tiny program that does better than the bland scripts!**
 
 *The difference?*
 - *GeneralPandaGenerator* is funnier,
@@ -16,8 +26,9 @@ fixes for:
 - lets you know if the job was done correctly with colored buttons and messages,
 - the whole process is three steps!
 
+<!--
 ![NODLoggoForGeneralPandaGenerator.png](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/NODLoggoForGeneralPandaGenerator.png)
-### Github won't let me upload a 40MB program here, so you need to [download *GeneralPandaGenerator* from here](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0) and unzip it on your machine!
+-->
 
 
 ### Before running the program 
@@ -43,7 +54,7 @@ you will get a green button and your freshly injected key on the program's list!
 Congrats! You can now close *GeneralPandaGenerator* and run the game! Have fun! :D
 
 ### If there's a problem...
-youu will get a red button\
+you will get a red button\
 ![GPGErroredOut](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGErroredOut.png)
 
 and a message box, reading this:\
@@ -57,7 +68,7 @@ If you still prefer the scripts, their old Readme test is below:
 
 ---
 ## Old Readme :)
-So what these thingies do is, they change the game's key on your computer's registry. That way you stop sharing the same key with a friend you want to play with, and the error goes away! The original key is replaced, but can be re-obtained by reinstalling the game. It's completely safe!
+So what these thingies do is change the game's key on your computer's registry. That way you stop sharing the same key with a friend you want to play with, and the error goes away! The original key is replaced but can be re-obtained by reinstalling the game. It's completely safe!
 
 *"The changes take place by just running one of these files anywhere on your PC."*\
 *Tested on these games installed by Origin. Steam or CDs may store the original keys elsewhere. Contact me on Twitter if you keep encountering the error.*
