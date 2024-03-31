@@ -5,16 +5,23 @@ fixes for:
 - C&C **Tiberium Wars**
 - C&C **Kane's Wrath**
 
-General Panda Generator
+### 30/03/2024 UPDATE!! PLEASE READ!!
+**CnC now on Steam! I was told that GeneralPandaGenerator does not work for Kane's Wrath, and I will work on a 2.0 version!**
+
+General Panda Generator 2.0
 ---
+![GeneralPandaGenerator2.0VT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGenerator2.0VT.png)\
+Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/642fde255524c11656798c7542fed670a6333ad66c6a9f5ebd0aa2d721aaadc5?nocache=1) for additional information.
+
+### Download link will be posted once GeneralPandaGenerator 2.0 is officially published.
+<!--
+### This is the only official place to [download *GeneralPandaGenerator 2.0*](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0)
+-->
+---
+General Panda Generator (deprecated)
+
 ![GeneralPandaGeneratorVT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGeneratorVT.png)\
 Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/04c40f2a4ac3ea6814654dbb3073a57239145a444c39f9cfd7a3f6a385a13a45?nocache=1) for additional information.
-
-### This is the only official place to [download *GeneralPandaGenerator*](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0)
-
----
-### 30/03/2024 UPDATE!! PLEASE READ!!
-**CnC now on Steam! I was told how GeneralPandaGenerator does not work for Steam and I will be working on it!**
 
 ---
 #### 21/10/2022 UPDATE!! PLEASE READ!!
