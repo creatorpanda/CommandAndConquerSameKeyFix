@@ -5,18 +5,24 @@ fixes for:
 - C&C **Tiberium Wars**
 - C&C **Kane's Wrath**
 
-### 30/03/2024 UPDATE!! PLEASE READ!!
-**CnC now on Steam! I was told that GeneralPandaGenerator does not work for Kane's Wrath, and I will work on a 2.0 version!**
-
 General Panda Generator 2.0
 ---
 ![GeneralPandaGenerator2.0VT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGenerator2.0VT.png)\
 Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/642fde255524c11656798c7542fed670a6333ad66c6a9f5ebd0aa2d721aaadc5?nocache=1) for additional information.
-
-### Download link will be posted once GeneralPandaGenerator 2.0 is officially published.
-<!--
 ### This is the only official place to [download *GeneralPandaGenerator 2.0*](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0)
--->
+Do not forget to ***"Run as Administrator"***!!! ;)
+
+<u>*Release notes (GPG= GeneralPandaGenerator)*</u>\
+The **updated version of GPG for Steam** now treats C&C Kane's Wrath differently than the other three games, **preserving backward compatibility for all C&C installations**:\
+Once you select C&C KW for a key injection, GPG takes the following actions:
+1. Resets the registry key permissions so it can be edited in case it's locked, or GPG2.0 was previously used,
+2. Injects a unique and awesome, randomly generated serial key,
+3. Changes the key's permissions to read-only, thus Kane's Wrath cannot change it every time you run the game!
+
+***A Special "Thank you!" to:***
+- *[**u/r3dh4ck3r**](https://www.reddit.com/user/r3dh4ck3r/) for helping me troubleshoot Steam's Kane's Wrath.*
+- *CaptainRicky3 and Infinox for beta testing GPG2.0.*
+
 ---
 General Panda Generator (deprecated)
 
