@@ -1,5 +1,5 @@
 # General Panda Generator 2.0 (supports Steam's Kane's Wrath)
----
+
 ![GeneralPandaGenerator2.0VT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGenerator2.0VT.png)\
 Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/642fde255524c11656798c7542fed670a6333ad66c6a9f5ebd0aa2d721aaadc5?nocache=1) for additional information.
 
@@ -14,35 +14,37 @@ Do not forget to ***"Run as Administrator"***!!! ;)
 
 ### April 1, 2024 Release notes
 (GPG= GeneralPandaGenerator)*\
-The **updated version of GPG for Steam** now treats C&C Kane's Wrath differently than the other three games, **preserving backward compatibility for all C&C installations**:\
+The **updated version of GPG for Steam** now treats C&C Kane's Wrath differently than the other three games, **preserving backward compatibility for all C&C installations!**
+
 Once you select C&C KW for a key injection, GPG takes the following actions:
 1. Resets the registry key permissions so it can be edited in case it's locked, or GPG2.0 was previously used,
 2. Injects a unique and awesome, randomly generated serial key,
 3. Changes the key's permissions to read-only, thus Kane's Wrath cannot change it every time you run the game!
 
+### How to use GPG2.0
 ### Before running the program 
 **make sure that the game you want to fix isn't running!!!**
 
-### Step 1
+#### Step 1
 **Run *GeneralPandaGenerator2.0* as an administrator!!!**\
 It will then open up!\
 ![GPGInitiation](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGInitiation.png)
 
-### Step 2
+#### Step 2
 **Select the checkbox of the game you want to fix!!!**\
 Its button will turn orange! It can now be pressed!\
 ![GPGArmedSelected](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGArmedSelected.png)
 
-### Step 3
+#### Step 3
 **Press the button of that game!!!**\
 The program will take over! You will have immediate results! No matter the outcome, the button and its checkbox will become inoperable!
 
-### If everything went well..
+#### If everything went well..
 you will get a green button and your freshly injected key on the program's list!\
 ![GPGSuccessfulInjection](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGSuccessfulInjection.png)\
 Congrats! You can now close *GeneralPandaGenerator2.0* and run the game! Have fun! :D
 
-### If there's a problem...
+#### If there's a problem...
 you will get a red button\
 *(note: GeneralPandaGenerator2.0 now shows error messages in the list too.)*\
 ![GPGErroredOut](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGErroredOut.png)
