@@ -5,50 +5,26 @@ fixes for:
 - C&C **Tiberium Wars**
 - C&C **Kane's Wrath**
 
-General Panda Generator 2.0
+General Panda Generator 2.0 (Steam's C&C Kane's Wrath support added)
 ---
 ![GeneralPandaGenerator2.0VT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGenerator2.0VT.png)\
 Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/642fde255524c11656798c7542fed670a6333ad66c6a9f5ebd0aa2d721aaadc5?nocache=1) for additional information.
 ### This is the only official place to [download *GeneralPandaGenerator 2.0*](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0)
 Do not forget to ***"Run as Administrator"***!!! ;)
 
-<u>*Release notes (GPG= GeneralPandaGenerator)*</u>\
+*April 1,2024 Release notes:\
+(GPG= GeneralPandaGenerator)*\
 The **updated version of GPG for Steam** now treats C&C Kane's Wrath differently than the other three games, **preserving backward compatibility for all C&C installations**:\
 Once you select C&C KW for a key injection, GPG takes the following actions:
 1. Resets the registry key permissions so it can be edited in case it's locked, or GPG2.0 was previously used,
 2. Injects a unique and awesome, randomly generated serial key,
 3. Changes the key's permissions to read-only, thus Kane's Wrath cannot change it every time you run the game!
 
-***A Special "Thank you!" to:***
-- *[**u/r3dh4ck3r**](https://www.reddit.com/user/r3dh4ck3r/) for helping me troubleshoot Steam's Kane's Wrath.*
-- *CaptainRicky3 and Infinox for beta testing GPG2.0.*
-
----
-General Panda Generator (deprecated)
-
-![GeneralPandaGeneratorVT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGeneratorVT.png)\
-Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/04c40f2a4ac3ea6814654dbb3073a57239145a444c39f9cfd7a3f6a385a13a45?nocache=1) for additional information.
-
----
-#### 21/10/2022 UPDATE!! PLEASE READ!!
-**After noticing that a lot of people needed these scripts, I created a safe, simple, and tiny program that does better than the bland scripts!**
-
-*The difference?*
-- *GeneralPandaGenerator* is funnier,
-- Generates fresh random 20 characters long alphanumeric keys, every time it's run - meaning the variety of the keys is endless,
-- lets you know if the job was done correctly with colored buttons and messages,
-- the whole process is three steps!
-
-<!--
-![NODLoggoForGeneralPandaGenerator.png](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/NODLoggoForGeneralPandaGenerator.png)
--->
-
-
 ### Before running the program 
-**make sure that you close the game you want to fix!!!**
+**make sure that the game you want to fix isn't running!!!**
 
 ### Step 1
-**Run *GeneralPandaGenerator* as an administrator!!!**\
+**Run *GeneralPandaGenerator2.0* as an administrator!!!**\
 It will then open up!\
 ![GPGInitiation](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGInitiation.png)
 
@@ -64,16 +40,41 @@ The program will take over! You will have immediate results! No matter the outco
 ### If everything went well..
 you will get a green button and your freshly injected key on the program's list!\
 ![GPGSuccessfulInjection](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGSuccessfulInjection.png)\
-Congrats! You can now close *GeneralPandaGenerator* and run the game! Have fun! :D
+Congrats! You can now close *GeneralPandaGenerator2.0* and run the game! Have fun! :D
 
 ### If there's a problem...
 you will get a red button\
+*(note: GeneralPandaGenerator2.0 now shows error messages in the list too.)*\
 ![GPGErroredOut](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGErroredOut.png)
 
 and a message box, reading this:\
 ![GPGWarningMessage](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GPGWarningMessage.png)
 
 ### Please do not hesitate to [contact me here](https://twitter.com/creatorpanda)!
+
+***A Special "Thank you!" to:***
+- *[**u/r3dh4ck3r**](https://www.reddit.com/user/r3dh4ck3r/) for helping me troubleshoot Steam's Kane's Wrath.*
+- *CaptainRicky3 and Infinox for beta testing GPG2.0.*
+
+---
+General Panda Generator1.0 (deprecated)
+
+![GeneralPandaGeneratorVT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGeneratorVT.png)\
+Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/04c40f2a4ac3ea6814654dbb3073a57239145a444c39f9cfd7a3f6a385a13a45?nocache=1) for additional information.
+
+---
+#### 21/10/2022 UPDATE!! PLEASE READ!!
+**After noticing that many people needed these scripts, I created a safe, simple, and tiny program that does better than the bland scripts!**
+
+*The difference?*
+- *GeneralPandaGenerator* is funnier,
+- Generates fresh random 20 characters long alphanumeric keys, every time it's run - meaning the variety of the keys is endless,
+- lets you know if the job was done correctly with colored buttons and messages,
+- the whole process is three steps!
+
+<!--
+![NODLoggoForGeneralPandaGenerator.png](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/NODLoggoForGeneralPandaGenerator.png)
+-->
 
 Hopefully  *GeneralPandaGenerator* will suit you better. You can share it easily with friends via flash drives, without fear of using the same key as could happen with the scripts below!
 
