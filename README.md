@@ -1,18 +1,18 @@
-# CommandAndConquerKeyFix
-fixes for:
+# General Panda Generator 2.0 (supports Steam's Kane's Wrath)
+---
+![GeneralPandaGenerator2.0VT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGenerator2.0VT.png)\
+Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/642fde255524c11656798c7542fed670a6333ad66c6a9f5ebd0aa2d721aaadc5?nocache=1) for additional information.
+
+### This is the only official place to [download *GeneralPandaGenerator 2.0*](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0)
+fixes:
 - C&C **Generals**
 - C&C **Zero Hour**
 - C&C **Tiberium Wars**
 - C&C **Kane's Wrath**
 
-General Panda Generator 2.0 (Steam's C&C Kane's Wrath support added)
----
-![GeneralPandaGenerator2.0VT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGenerator2.0VT.png)\
-Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/642fde255524c11656798c7542fed670a6333ad66c6a9f5ebd0aa2d721aaadc5?nocache=1) for additional information.
-### This is the only official place to [download *GeneralPandaGenerator 2.0*](https://www.dropbox.com/sh/a7eykcvu5hy6i1r/AAA2epLYAuu8wAa0H1fBU8cNa?dl=0)
 Do not forget to ***"Run as Administrator"***!!! ;)
 
-*April 1,2024 Release notes:\
+### April 1, 2024 Release notes
 (GPG= GeneralPandaGenerator)*\
 The **updated version of GPG for Steam** now treats C&C Kane's Wrath differently than the other three games, **preserving backward compatibility for all C&C installations**:\
 Once you select C&C KW for a key injection, GPG takes the following actions:
