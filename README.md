@@ -1,5 +1,4 @@
 # GeneralPandaGenerator2.0 (supports Steam's Kane's Wrath)
-
 ![GeneralPandaGenerator2.0VT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGenerator2.0VT.png)\
 Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/642fde255524c11656798c7542fed670a6333ad66c6a9f5ebd0aa2d721aaadc5?nocache=1) for additional information.
 
@@ -58,12 +57,13 @@ and a message box, reading this:\
 - *[**u/r3dh4ck3r**](https://www.reddit.com/user/r3dh4ck3r/) for helping me troubleshoot Steam's Kane's Wrath.*
 - *CaptainRicky3 and Infinox for beta testing GPG2.0.*
 
+*The sole, humble purpose of the GeneralPandaGenerator versions and registry scripts is to make multiplayer accessible to original, paid versions of the games. I **do NOT** use, support, or encourage cracking or pirating games in any way! Please use the contents of this repository responsibly! The End User **shall NOT** alter the provided content but only use the content as is! To share this content, please direct others to this safe repository! Finally, despite all sufficient testing of the content provided, proving the safe and smooth operation, usage of such is under the responsibility of the End User. I am **not responsible** for damage done to the End User's machines.*
+
 ---
 General Panda Generator1.0 (deprecated)
 
 ![GeneralPandaGeneratorVT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGeneratorVT.png)\
 Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/04c40f2a4ac3ea6814654dbb3073a57239145a444c39f9cfd7a3f6a385a13a45?nocache=1) for additional information.
-
 ---
 #### 21/10/2022 UPDATE!! PLEASE READ!!
 **After noticing that many people needed these scripts, I created a safe, simple, and tiny program that does better than the bland scripts!**
