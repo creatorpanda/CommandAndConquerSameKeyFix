@@ -3,7 +3,7 @@
 Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/642fde255524c11656798c7542fed670a6333ad66c6a9f5ebd0aa2d721aaadc5?nocache=1) for additional information.
 
 *finally made my my official website and moved the download link there!*
-### This is the only official place to [download *GeneralPandaGenerator 2.0*](https://creatorpanda.com/generalpandagenerator/)
+### This is the only official place to [safely download *GeneralPandaGenerator 2.0*](https://creatorpanda.com/generalpandagenerator/)
 fixes:
 - C&C **Generals**
 - C&C **Zero Hour**
