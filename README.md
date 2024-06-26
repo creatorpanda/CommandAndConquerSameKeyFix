@@ -1,4 +1,4 @@
-# GeneralPandaGenerator2.0 (supports Steam's Kane's Wrath)
+# GeneralPandaGenerator (supports Steam's Kane's Wrath)
 ![GeneralPandaGenerator2.0VT](https://github.com/creatorpanda/CommandAndConquerSameKeyFix/blob/main/Pictures/GeneralPandaGenerator2.0VT.png)\
 Perfect VT Score! [Click here](https://www.virustotal.com/gui/file/642fde255524c11656798c7542fed670a6333ad66c6a9f5ebd0aa2d721aaadc5?nocache=1) for additional information.
 
